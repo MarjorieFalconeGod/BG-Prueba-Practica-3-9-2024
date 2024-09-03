@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BG-Marjorie-Falcone-Godoy-392024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21cda9bfe18434e3193e63922fe10f99a0bd2249")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03bc0804bfbf73e9070340d5b2d3d3bebb2000bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("BG-Marjorie-Falcone-Godoy-392024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BG-Marjorie-Falcone-Godoy-392024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
