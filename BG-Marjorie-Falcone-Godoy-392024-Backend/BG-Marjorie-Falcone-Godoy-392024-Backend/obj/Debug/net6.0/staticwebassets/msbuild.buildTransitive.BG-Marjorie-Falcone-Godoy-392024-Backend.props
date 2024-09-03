@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BG-Marjorie-Falcone-Godoy-392024-Backend.props" />
+</Project>

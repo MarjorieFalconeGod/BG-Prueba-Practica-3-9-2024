@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using BG_Marjorie_Falcone_Godoy_392024_Backend.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<BG_Marjorie_Falcone_Godoy_392024_BackendContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("BG_Marjorie_Falcone_Godoy_392024_BackendContext") ?? throw new InvalidOperationException("Connection string 'BG_Marjorie_Falcone_Godoy_392024_BackendContext' not found.")));
 
 // Add services to the container.
 

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:BG_Marjorie_Falcone_Godoy_392024_BackendContext"
+    }
+  }
+}

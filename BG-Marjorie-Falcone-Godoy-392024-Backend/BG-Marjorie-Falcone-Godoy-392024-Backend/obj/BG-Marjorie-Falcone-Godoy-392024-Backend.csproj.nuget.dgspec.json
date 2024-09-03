@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend.csproj": {}
+    "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend.csproj": {
+    "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend.csproj",
+        "projectUniqueName": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend.csproj",
         "projectName": "BG-Marjorie-Falcone-Godoy-392024-Backend",
-        "projectPath": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend.csproj",
+        "projectPath": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend.csproj",
         "packagesPath": "C:\\Users\\adavila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend\\obj\\",
+        "outputPath": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024-Backend\\BG-Marjorie-Falcone-Godoy-392024-Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,24 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.17, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
