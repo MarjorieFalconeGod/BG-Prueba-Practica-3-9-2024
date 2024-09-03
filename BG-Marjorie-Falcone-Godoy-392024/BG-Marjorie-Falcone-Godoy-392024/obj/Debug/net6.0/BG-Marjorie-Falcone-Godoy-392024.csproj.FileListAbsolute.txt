@@ -1,0 +1,9 @@
+C:\Users\adavila\Desktop\Mayu\3-9-2024\BG-Prueba-Practica-3-9-2024\BG-Marjorie-Falcone-Godoy-392024\BG-Marjorie-Falcone-Godoy-392024\obj\Debug\net6.0\BG-Marjorie-Falcone-Godoy-392024.csproj.AssemblyReference.cache
+C:\Users\adavila\Desktop\Mayu\3-9-2024\BG-Prueba-Practica-3-9-2024\BG-Marjorie-Falcone-Godoy-392024\BG-Marjorie-Falcone-Godoy-392024\obj\Debug\net6.0\BG-Marjorie-Falcone-Godoy-392024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adavila\Desktop\Mayu\3-9-2024\BG-Prueba-Practica-3-9-2024\BG-Marjorie-Falcone-Godoy-392024\BG-Marjorie-Falcone-Godoy-392024\obj\Debug\net6.0\BG-Marjorie-Falcone-Godoy-392024.AssemblyInfoInputs.cache
+C:\Users\adavila\Desktop\Mayu\3-9-2024\BG-Prueba-Practica-3-9-2024\BG-Marjorie-Falcone-Godoy-392024\BG-Marjorie-Falcone-Godoy-392024\obj\Debug\net6.0\BG-Marjorie-Falcone-Godoy-392024.AssemblyInfo.cs
+C:\Users\adavila\Desktop\Mayu\3-9-2024\BG-Prueba-Practica-3-9-2024\BG-Marjorie-Falcone-Godoy-392024\BG-Marjorie-Falcone-Godoy-392024\obj\Debug\net6.0\BG-Marjorie-Falcone-Godoy-392024.csproj.CoreCompileInputs.cache
+C:\Users\adavila\Desktop\Mayu\3-9-2024\BG-Prueba-Practica-3-9-2024\BG-Marjorie-Falcone-Godoy-392024\BG-Marjorie-Falcone-Godoy-392024\obj\Debug\net6.0\BG-Marjorie-Falcone-Godoy-392024.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adavila\Desktop\Mayu\3-9-2024\BG-Prueba-Practica-3-9-2024\BG-Marjorie-Falcone-Godoy-392024\BG-Marjorie-Falcone-Godoy-392024\obj\Debug\net6.0\BG-Marjorie-Falcone-Godoy-392024.RazorAssemblyInfo.cache
+C:\Users\adavila\Desktop\Mayu\3-9-2024\BG-Prueba-Practica-3-9-2024\BG-Marjorie-Falcone-Godoy-392024\BG-Marjorie-Falcone-Godoy-392024\obj\Debug\net6.0\BG-Marjorie-Falcone-Godoy-392024.RazorAssemblyInfo.cs
+C:\Users\adavila\Desktop\Mayu\3-9-2024\BG-Prueba-Practica-3-9-2024\BG-Marjorie-Falcone-Godoy-392024\BG-Marjorie-Falcone-Godoy-392024\obj\Debug\net6.0\BG-Marjorie-Falcone-Godoy-392024.sourcelink.json

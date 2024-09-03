@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|c:\\users\\adavila\\desktop\\mayu\\3-9-2024\\bg-prueba-practica-3-9-2024\\bg-marjorie-falcone-godoy-392024\\bg-marjorie-falcone-godoy-392024\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|solutionrelative:bg-marjorie-falcone-godoy-392024\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|c:\\users\\adavila\\desktop\\mayu\\3-9-2024\\bg-prueba-practica-3-9-2024\\bg-marjorie-falcone-godoy-392024\\bg-marjorie-falcone-godoy-392024\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|solutionrelative:bg-marjorie-falcone-godoy-392024\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|c:\\users\\adavila\\desktop\\mayu\\3-9-2024\\bg-prueba-practica-3-9-2024\\bg-marjorie-falcone-godoy-392024\\bg-marjorie-falcone-godoy-392024\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|solutionrelative:bg-marjorie-falcone-godoy-392024\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|c:\\users\\adavila\\desktop\\mayu\\3-9-2024\\bg-prueba-practica-3-9-2024\\bg-marjorie-falcone-godoy-392024\\bg-marjorie-falcone-godoy-392024\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|solutionrelative:bg-marjorie-falcone-godoy-392024\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|c:\\users\\adavila\\desktop\\mayu\\3-9-2024\\bg-prueba-practica-3-9-2024\\bg-marjorie-falcone-godoy-392024\\bg-marjorie-falcone-godoy-392024\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|solutionrelative:bg-marjorie-falcone-godoy-392024\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|c:\\users\\adavila\\desktop\\mayu\\3-9-2024\\bg-prueba-practica-3-9-2024\\bg-marjorie-falcone-godoy-392024\\bg-marjorie-falcone-godoy-392024\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|solutionrelative:bg-marjorie-falcone-godoy-392024\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|c:\\users\\adavila\\desktop\\mayu\\3-9-2024\\bg-prueba-practica-3-9-2024\\bg-marjorie-falcone-godoy-392024\\bg-marjorie-falcone-godoy-392024\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|solutionrelative:bg-marjorie-falcone-godoy-392024\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|c:\\users\\adavila\\desktop\\mayu\\3-9-2024\\bg-prueba-practica-3-9-2024\\bg-marjorie-falcone-godoy-392024\\bg-marjorie-falcone-godoy-392024\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D27532-1521-4F00-8052-82A70D17743B}|BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024.csproj|solutionrelative:bg-marjorie-falcone-godoy-392024\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 188,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "BG-Marjorie-Falcone-Godoy-392024\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Service\\UserService.cs",
+              "RelativeToolTip": "BG-Marjorie-Falcone-Godoy-392024\\Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:34:49.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "BG-Marjorie-Falcone-Godoy-392024\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Service\\IUserService.cs",
+              "RelativeToolTip": "BG-Marjorie-Falcone-Godoy-392024\\Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:23:17.313Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BG-Marjorie-Falcone-Godoy-392024\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BG-Marjorie-Falcone-Godoy-392024\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T15:59:26.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BG-Marjorie-Falcone-Godoy-392024\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BG-Marjorie-Falcone-Godoy-392024\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:59:05.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BG-Marjorie-Falcone-Godoy-392024\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Models\\User.cs",
+              "RelativeToolTip": "BG-Marjorie-Falcone-Godoy-392024\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:47:54.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "BG-Marjorie-Falcone-Godoy-392024\\Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Models\\Registration.cs",
+              "RelativeToolTip": "BG-Marjorie-Falcone-Godoy-392024\\Models\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:46:59.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "BG-Marjorie-Falcone-Godoy-392024\\Models\\Activity.cs",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Models\\Activity.cs",
+              "RelativeToolTip": "BG-Marjorie-Falcone-Godoy-392024\\Models\\Activity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:45:13.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "BG-Marjorie-Falcone-Godoy-392024\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\3-9-2024\\BG-Prueba-Practica-3-9-2024\\BG-Marjorie-Falcone-Godoy-392024\\BG-Marjorie-Falcone-Godoy-392024\\Models\\Event.cs",
+              "RelativeToolTip": "BG-Marjorie-Falcone-Godoy-392024\\Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:43:37.283Z",
+              "EditorCaption": ""
             }
           ]
         }
